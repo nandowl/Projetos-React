@@ -5,6 +5,7 @@
 
 Desenvolver uma aplicação web de cadastro de usuário, com interface simples e funcional,
 capaz de permitir ao usuário uma forma de cadastrar novos usuários utilizando apenas nome e idade.
+Essa é a versão sem o uso de hooks.
 
 
 # Tecnologias
