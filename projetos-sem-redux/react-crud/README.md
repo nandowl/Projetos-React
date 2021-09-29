@@ -5,7 +5,7 @@
 
 Desenvolver uma aplicação web de cadastro de usuário em React, com interface simples e funcional,
 capaz de permitir ao usuário uma forma de cadastrar novos usuários utilizando poucas informações.
-Essa versão é integrada com banco de dados local!
+Essa versão é integrada com banco de dados local e tem layout responsivo!
 
 
 # Tecnologias
