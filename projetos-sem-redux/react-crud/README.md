@@ -25,6 +25,7 @@ Algumas Dependências legais que foram utilizadas:
 
 ![Optional_Text](../../assets/reactcrud1.PNG)
 ![Optional_Text](../../assets/reactcrud2.PNG)
+![Optional_Text](../../assets/reactcrud-api.PNG)
 
 # Clone
 
