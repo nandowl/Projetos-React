@@ -28,7 +28,8 @@ Para desenvolver o projeto foram utilizados:
 - React-Router-Dom
 - React Icons
 - React Toastify
-
+- Modal
+- 
 # Layout
 
 ![Optional_Text](../../assets/chamado1.JPG)
