@@ -4,7 +4,7 @@ import 'firebase/firestore'
 import 'firebase/storage'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDT5LXjmKHAN_p2UKTosnJqc6JSdfISQZU",
+    apiKey: "KHeaSyDT5LXjmKHAN_p2UKTmskUqc6JSdfISQZU",
     authDomain: "chamados-db22f.firebaseapp.com",
     projectId: "chamados-db22f",
     storageBucket: "chamados-db22f.appspot.com",
