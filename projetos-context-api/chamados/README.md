@@ -29,7 +29,7 @@ Para desenvolver o projeto foram utilizados:
 - React Icons
 - React Toastify
 - Modal
-- 
+
 # Layout
 
 ![Optional_Text](../../assets/chamado1.JPG)
