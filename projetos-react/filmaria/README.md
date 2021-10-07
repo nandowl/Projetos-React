@@ -1,3 +1,48 @@
+# Projetos-React
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandowl/Projetos-React/blob/main/LICENSE)
+
+# Objetivo
+
+Desenvolver uma aplicação de consulta de filmes, tendo acesso a uma sinopse e a um redirecionamento para ver o trailer no youtube.
+O legal aqui, é que o usuário já é redirecionado para o youtube com titulo do filme + 'trailer' preenchido na url.
+Dessa forma automaticamente já aparece o resultado da busca exibindo o trailer do filme procurado sem que o usuário
+precise pesquisar manualmente.
+
+Não foi implementado responsividade mobile nesse projeto no decorrer do curso.
+
+# Tecnologias
+
+Para desenvolver o projeto foram utilizados:
+- JavaScript
+- React
+- Axios
+- API
+
+# Layout
+
+![Optional_Text](../../assets/filmaria1.JPG)
+![Optional_Text](../../assets/filmaria2.JPG)
+![Optional_Text](../../assets/filmaria3.JPG)
+![Optional_Text](../../assets/filmaria4.JPG)
+
+# Clone
+
+Caso queira verificar o aplicativo rodando em sua máquina, <br />
+basta clonar o repositório e através do terminal acessar a pasta clonada. <br />
+Como não faz sentido subir a pasta node_modules pro git, você irá perceber que a mesma está faltando. <br />
+Para resolver, muito simples, basta executar o comando "npm i -E" que todas as dependências necessárias <br />
+serão lidas no package.json e baixadas em sua máquina. Depois basta executar o projeto normalmente.
+
+# Créditos
+
+Os códigos são de autoria do professor Matheus Fraga (https://github.com/devfraga) <br />
+E foram reproduzidos por Fernando Piattelli no decorrer do curso.
+
+<br />
+<br />
+
+-------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
