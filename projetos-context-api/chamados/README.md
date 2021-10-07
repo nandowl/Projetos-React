@@ -15,6 +15,8 @@ Através das configurações é possível alterar o nome do usuário logado e a 
 Pra que o sistema rode adequadamente foram integrados o Authentication do firebase e trabalhamos com o relacionamento do firestore e do storage
 para poder armazenar adequadamente as imagens de avatar.
 
+Foi removido o arquivo de configuração do firebase por questões de segurança, uma vez que não foi usado um auth_secret no projeto original.
+
 
 # Tecnologias
 
