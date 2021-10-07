@@ -1,3 +1,60 @@
+# Projetos-React
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandowl/Projetos-React/blob/main/LICENSE)
+
+# Objetivo
+
+Desenvolver uma aplicação de controle de chamados próxima ao que acontece no dia a dia.
+Com cadastro de empresa, visualização e edição de chamados. 
+Essa aplicação possui responsividade mobile e tem integração com backend da google (Firebase)
+permitindo que seja criado um usuário simples para acesso ao sistema (Sem validação de email e exigindo apenas 6 digitos ou mais na senha).
+
+Ao logar no sistema o usuário tem acesso a todos os chamados cadastrados por ordem cronológica do mais recente ou mais antigo,
+poderá visualizar, editar ou registrar um novo chamado. Caso a empresa não esteja cadastrada é possível fazer o cadastro de novas empresas.
+Através das configurações é possível alterar o nome do usuário logado e a imagem de avatar.
+
+Pra que o sistema rode adequadamente foram integrados o Authentication do firebase e trabalhamos com o relacionamento do firestore e do storage
+para poder armazenar adequadamente as imagens de avatar.
+
+
+# Tecnologias
+
+Para desenvolver o projeto foram utilizados:
+- JavaScript
+- React
+- Firebase (Authentication por email e senha; Firestore para os dados; Storage para a imagem)
+- Login e rotas privadas
+- React-Router-Dom
+- React Icons
+- React Toastify
+
+# Layout
+
+![Optional_Text](../../assets/chamado1.JPG)
+![Optional_Text](../../assets/chamado2.JPG)
+![Optional_Text](../../assets/chamado3.JPG)
+![Optional_Text](../../assets/chamado4.JPG)
+![Optional_Text](../../assets/chamado5.JPG)
+![Optional_Text](../../assets/chamado6.JPG)
+
+# Clone
+
+Caso queira verificar o aplicativo rodando em sua máquina, <br />
+basta clonar o repositório e através do terminal acessar a pasta clonada. <br />
+Como não faz sentido subir a pasta node_modules pro git, você irá perceber que a mesma está faltando. <br />
+Para resolver, muito simples, basta executar o comando "npm i -E" que todas as dependências necessárias <br />
+serão lidas no package.json e baixadas em sua máquina. Depois basta executar o projeto normalmente.
+
+# Créditos
+
+Os códigos são de autoria do professor Matheus Fraga (https://github.com/devfraga) <br />
+E foram reproduzidos por Fernando Piattelli no decorrer do curso.
+
+<br />
+<br />
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
