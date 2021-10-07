@@ -18,6 +18,9 @@ Para desenvolver o projeto foram utilizados:
 - Axios
 - API
 
+# Projeto hospedado na netlify:
+https://filmesdonando.netlify.app/
+
 # Layout
 
 ![Optional_Text](../../assets/filmaria1.JPG)
